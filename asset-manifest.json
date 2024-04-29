@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/https//ashokstha61.github.io/My-portfolio/static/css/main.3d4be4cc.css",
-    "main.js": "/https//ashokstha61.github.io/My-portfolio/static/js/main.d2c94fe3.js",
+    "main.js": "/https//ashokstha61.github.io/My-portfolio/static/js/main.726996bf.js",
     "static/js/453.1407b060.chunk.js": "/https//ashokstha61.github.io/My-portfolio/static/js/453.1407b060.chunk.js",
     "static/media/outfit-latin-400-normal.woff": "/https//ashokstha61.github.io/My-portfolio/static/media/outfit-latin-400-normal.741bd8369a31b33122b4.woff",
     "static/media/roboto-latin-400-normal.woff2": "/https//ashokstha61.github.io/My-portfolio/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -23,11 +23,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/https//ashokstha61.github.io/My-portfolio/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "index.html": "/https//ashokstha61.github.io/My-portfolio/index.html",
     "main.3d4be4cc.css.map": "/https//ashokstha61.github.io/My-portfolio/static/css/main.3d4be4cc.css.map",
-    "main.d2c94fe3.js.map": "/https//ashokstha61.github.io/My-portfolio/static/js/main.d2c94fe3.js.map",
+    "main.726996bf.js.map": "/https//ashokstha61.github.io/My-portfolio/static/js/main.726996bf.js.map",
     "453.1407b060.chunk.js.map": "/https//ashokstha61.github.io/My-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d4be4cc.css",
-    "static/js/main.d2c94fe3.js"
+    "static/js/main.726996bf.js"
   ]
 }
