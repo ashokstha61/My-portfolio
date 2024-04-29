@@ -4,15 +4,18 @@
     "organization": "Google",
     "startDate": "Sept, 2022",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "experiences": ["Worked on Government Project", "designed a jasper report"],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "UI Designer",
-    "organization": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "role": "Flutter Developer",
+    "organization": "Broadway Infosys",
+    "startDate": "Nov, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "design a user friendly mobile app",
+      "Integraded an app with API"
+    ],
     "imageSrc": "history/microsoft.png"
   },
   {
