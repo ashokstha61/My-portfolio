@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Note App",
+    "imageSrc": "projects/project.png",
+    "description": "This project is made by using Flutter Framework. Flutter bloc concept is use in this project. Dio package is used to handle api.",
+    "skills": ["Flutter", "Dart", "Flutter package"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ashokstha61/note_app_bloc"
+  },
+  {
+    "title": "Handwritten Digit Recognition",
+    "imageSrc": "projects/project.png",
+    "description": "This project is made by using flutter framework. This project used MNIST data set training and testing. ",
+    "skills": ["Flutter", "Dart", "Python"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ashokstha61/handWritten_digit_recognition-system"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
