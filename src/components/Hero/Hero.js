@@ -9,16 +9,18 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Ashok Kumar Shrestha</h1>
         <p className={styles.description}>
-          I'm a Software Engineer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+          I'm a Software Engineer. I have completed my bachelors degree in
+          BSc.CSIT from himalaya college of engineering affiliated with
+          Tribhuvan university in 2023. I took trained in Flutter Framework
+          Development.
         </p>
         <a href="mailto:ashokstha61@email.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
-        alt="Hero image of me"
+        src={getImageUrl("hero/heroImage.jpg")}
+        alt="Ashok Kumar Shrestha"
         className={styles.heroImg}
       />
       <div className={styles.topBlur} />
